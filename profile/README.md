@@ -3,8 +3,8 @@
 ## Members
 - Charlie Kingsland - [@ChopsKingsland](www.github.com/ChopsKingsland)
 - James O'Mahoney - [@Hairlesscat7406](www.github.com/Hairlesscat7406)
-- Yassine Makni - []()
-- David Dodica - []()
+- Yassine Makni - [@Yassine-Makni](www.github.com/Yassine-Makni)
+- David Dodica - [@its-me-dav](www.github.com/its-me-dav)
 
 ## Setting up Java for the EV3
 - Download and Install Java 1.7 (also known as Java 7)
