@@ -46,3 +46,12 @@
 3. Compare: base=main ← compare=[branch-name]
 4. Add description & request reviewers
 
+### 5. After creating a PR
+
+If you want to swtich back to `main`, do the following
+1. `git checkout main`
+2. `git pull origin main`
+
+If your branch has been deleted on GitHub and/or you just want to **_delete_** it from your local machine
+1. `git branch -d [branch-name]`
+2. `git fetch -p`
